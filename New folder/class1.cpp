@@ -5,7 +5,7 @@ using namespace std; f
 
 int main() {
     int n;
-    cout << "Enter the number of elements: ";   g
+    cout << "Enter the number of elements: ";   
     cin >> n;
 
     vector<int> elements(n);
